@@ -1,0 +1,10 @@
+.Title{
+    background-color:#bbdefb;
+    padding-left:10px;
+    text-align:left;
+    text-transform: capitalize;
+}
+.Category{
+    display:flex;
+    justify-content:space-evenly;
+}
